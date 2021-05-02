@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "hi"
+		},
+		{
+			"path": "average"
+		},
+		{
+			"path": "datafile"
 		}
 	]
 }
